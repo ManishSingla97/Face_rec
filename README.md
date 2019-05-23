@@ -4,6 +4,7 @@
 
 Requirements:-
 python 3.6
+
 face_recognition_models
 opencv
 openpyxl
@@ -14,7 +15,6 @@ tkinter
 
 
 How to use:-
-cnn_project:
 
 -Run  python firstpage.py.
 -A window will open containing four options.These four options are:-
