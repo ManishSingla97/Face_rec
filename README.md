@@ -3,16 +3,14 @@
 
 
 Requirements:-
-python 3.6
-face_recognition_models
-opencv
-
-openpyxl
-
-dlib
-sklearn
-numpy
-tkinter
+     python 3.6
+     face_recognition_models
+     opencv
+     openpyxl
+     dlib
+     sklearn
+     numpy
+     tkinter
 
 
 How to use:-
