@@ -4,7 +4,7 @@
 
 Requirements:-
      python 3.6
-     face_recognition_models
+     face_recognition_models.
      opencv
      openpyxl
      dlib
